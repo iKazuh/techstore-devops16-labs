@@ -1,7 +1,3 @@
-# Funcionalidade
+## Correção
 
-Implementação da funcionalidade de Cupom de Desconto.
-
-Status:
-Em desenvolvimento.
-``` 
+Foi corrigido o cálculo do cupom de desconto.
